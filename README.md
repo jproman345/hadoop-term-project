@@ -23,4 +23,4 @@ Further research can extend to multi-season analysis and factor in additional en
 Authors
 
 ## Author
-Jason Roman
+Jason Roman and Michael McMahon
